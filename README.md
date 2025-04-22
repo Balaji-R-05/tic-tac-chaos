@@ -7,3 +7,23 @@ A fun and intelligent Tic Tac Toe game with four AI modes — Easy (Random), Med
 - HTML5
 - CSS3
 - Javascript
+
+
+## 🧠 Game Modes
+
+| Mode       | Description                                                |
+|------------|------------------------------------------------------------|
+| 🟢 **Easy**   | Plays random moves — perfect for beginners                   |
+| 🟡 **Medium** | Blocks you and prefers corners/center — a fair opponent      |
+| 🔴 **Hard**   | Uses the Minimax algorithm — completely unbeatable          |
+| 🤡 **Surprise** | Switches between Easy, Medium, and Hard randomly — acts human-like |
+
+
+
+## 🚀 Getting Started
+
+### 1. Clone the Repo
+
+```bash
+git clone https://github.com/Balaji-R-05/tic-tac-choas.git
+cd tic-tac-chaos
