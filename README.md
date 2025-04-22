@@ -27,3 +27,5 @@ A fun and intelligent Tic Tac Toe game with four AI modes — Easy (Random), Med
 ```bash
 git clone https://github.com/Balaji-R-05/tic-tac-choas.git
 cd tic-tac-chaos
+```
+### 2. Open index.html in any browser
